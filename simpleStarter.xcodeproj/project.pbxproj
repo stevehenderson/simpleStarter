@@ -7,6 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A45BE45417FA55B8003D0B56 /* NavThird.m in Sources */ = {isa = PBXBuildFile; fileRef = A45BE45317FA55B8003D0B56 /* NavThird.m */; };
+		A45BE45717FA583D003D0B56 /* AlertClass.m in Sources */ = {isa = PBXBuildFile; fileRef = A45BE45617FA583D003D0B56 /* AlertClass.m */; };
+		A45BE45917FA5CA6003D0B56 /* glass window.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A45BE45817FA5CA6003D0B56 /* glass window.jpg */; };
+		A45BE45B17FA5CB4003D0B56 /* alcazar.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A45BE45A17FA5CB4003D0B56 /* alcazar.jpg */; };
+		A45BE46017FA5FCC003D0B56 /* Australia.png in Resources */ = {isa = PBXBuildFile; fileRef = A45BE45F17FA5FCC003D0B56 /* Australia.png */; };
+		A45BE46217FA5FD9003D0B56 /* Spain.png in Resources */ = {isa = PBXBuildFile; fileRef = A45BE46117FA5FD9003D0B56 /* Spain.png */; };
+		A4CCF8DB17FA65F200E3ABF5 /* SegmentController.m in Sources */ = {isa = PBXBuildFile; fileRef = A4CCF8DA17FA65F200E3ABF5 /* SegmentController.m */; };
 		A4E8717017F664690072AF3D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A4E8716F17F664690072AF3D /* Foundation.framework */; };
 		A4E8717217F664690072AF3D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A4E8717117F664690072AF3D /* CoreGraphics.framework */; };
 		A4E8717417F664690072AF3D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A4E8717317F664690072AF3D /* UIKit.framework */; };
@@ -23,6 +30,7 @@
 		A4E8719717F664690072AF3D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A4E8717317F664690072AF3D /* UIKit.framework */; };
 		A4E8719F17F664690072AF3D /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = A4E8719D17F664690072AF3D /* InfoPlist.strings */; };
 		A4E871A117F664690072AF3D /* simpleStarterTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A4E871A017F664690072AF3D /* simpleStarterTests.m */; };
+		A4E871AE17F66EB10072AF3D /* Photo on 12-5-12 at 8.34 AM.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A4E871AD17F66EB10072AF3D /* Photo on 12-5-12 at 8.34 AM.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +44,16 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		A45BE45217FA55B8003D0B56 /* NavThird.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NavThird.h; sourceTree = "<group>"; };
+		A45BE45317FA55B8003D0B56 /* NavThird.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NavThird.m; sourceTree = "<group>"; };
+		A45BE45517FA583D003D0B56 /* AlertClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AlertClass.h; sourceTree = "<group>"; };
+		A45BE45617FA583D003D0B56 /* AlertClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AlertClass.m; sourceTree = "<group>"; };
+		A45BE45817FA5CA6003D0B56 /* glass window.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "glass window.jpg"; sourceTree = "<group>"; };
+		A45BE45A17FA5CB4003D0B56 /* alcazar.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = alcazar.jpg; sourceTree = "<group>"; };
+		A45BE45F17FA5FCC003D0B56 /* Australia.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Australia.png; sourceTree = "<group>"; };
+		A45BE46117FA5FD9003D0B56 /* Spain.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Spain.png; sourceTree = "<group>"; };
+		A4CCF8D917FA65F200E3ABF5 /* SegmentController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SegmentController.h; sourceTree = "<group>"; };
+		A4CCF8DA17FA65F200E3ABF5 /* SegmentController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SegmentController.m; sourceTree = "<group>"; };
 		A4E8716C17F664690072AF3D /* simpleStarter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = simpleStarter.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A4E8716F17F664690072AF3D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		A4E8717117F664690072AF3D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -58,6 +76,7 @@
 		A4E8719C17F664690072AF3D /* simpleStarterTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "simpleStarterTests-Info.plist"; sourceTree = "<group>"; };
 		A4E8719E17F664690072AF3D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		A4E871A017F664690072AF3D /* simpleStarterTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = simpleStarterTests.m; sourceTree = "<group>"; };
+		A4E871AD17F66EB10072AF3D /* Photo on 12-5-12 at 8.34 AM.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Photo on 12-5-12 at 8.34 AM.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,14 +138,20 @@
 			children = (
 				A4E8717E17F664690072AF3D /* AppDelegate.h */,
 				A4E8717F17F664690072AF3D /* AppDelegate.m */,
+				A45BE45517FA583D003D0B56 /* AlertClass.h */,
+				A45BE45617FA583D003D0B56 /* AlertClass.m */,
 				A4E8718117F664690072AF3D /* Main_iPhone.storyboard */,
 				A4E8718417F664690072AF3D /* Main_iPad.storyboard */,
 				A4E8718717F664690072AF3D /* FirstViewController.h */,
 				A4E8718817F664690072AF3D /* FirstViewController.m */,
 				A4E8718A17F664690072AF3D /* SecondViewController.h */,
 				A4E8718B17F664690072AF3D /* SecondViewController.m */,
+				A45BE45217FA55B8003D0B56 /* NavThird.h */,
+				A45BE45317FA55B8003D0B56 /* NavThird.m */,
 				A4E8718D17F664690072AF3D /* Images.xcassets */,
 				A4E8717617F664690072AF3D /* Supporting Files */,
+				A4CCF8D917FA65F200E3ABF5 /* SegmentController.h */,
+				A4CCF8DA17FA65F200E3ABF5 /* SegmentController.m */,
 			);
 			path = simpleStarter;
 			sourceTree = "<group>";
@@ -134,6 +159,11 @@
 		A4E8717617F664690072AF3D /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				A45BE45F17FA5FCC003D0B56 /* Australia.png */,
+				A45BE45A17FA5CB4003D0B56 /* alcazar.jpg */,
+				A45BE45817FA5CA6003D0B56 /* glass window.jpg */,
+				A45BE46117FA5FD9003D0B56 /* Spain.png */,
+				A4E871AD17F66EB10072AF3D /* Photo on 12-5-12 at 8.34 AM.jpg */,
 				A4E8717717F664690072AF3D /* simpleStarter-Info.plist */,
 				A4E8717817F664690072AF3D /* InfoPlist.strings */,
 				A4E8717B17F664690072AF3D /* main.m */,
@@ -239,7 +269,12 @@
 				A4E8718617F664690072AF3D /* Main_iPad.storyboard in Resources */,
 				A4E8718E17F664690072AF3D /* Images.xcassets in Resources */,
 				A4E8718317F664690072AF3D /* Main_iPhone.storyboard in Resources */,
+				A45BE45917FA5CA6003D0B56 /* glass window.jpg in Resources */,
 				A4E8717A17F664690072AF3D /* InfoPlist.strings in Resources */,
+				A45BE45B17FA5CB4003D0B56 /* alcazar.jpg in Resources */,
+				A45BE46017FA5FCC003D0B56 /* Australia.png in Resources */,
+				A4E871AE17F66EB10072AF3D /* Photo on 12-5-12 at 8.34 AM.jpg in Resources */,
+				A45BE46217FA5FD9003D0B56 /* Spain.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,9 +294,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				A4E8718C17F664690072AF3D /* SecondViewController.m in Sources */,
+				A45BE45717FA583D003D0B56 /* AlertClass.m in Sources */,
 				A4E8718017F664690072AF3D /* AppDelegate.m in Sources */,
 				A4E8718917F664690072AF3D /* FirstViewController.m in Sources */,
+				A4CCF8DB17FA65F200E3ABF5 /* SegmentController.m in Sources */,
 				A4E8717C17F664690072AF3D /* main.m in Sources */,
+				A45BE45417FA55B8003D0B56 /* NavThird.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -480,6 +518,7 @@
 				A4E871A617F664690072AF3D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A4E871A717F664690072AF3D /* Build configuration list for PBXNativeTarget "simpleStarterTests" */ = {
 			isa = XCConfigurationList;
@@ -488,6 +527,7 @@
 				A4E871A917F664690072AF3D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
